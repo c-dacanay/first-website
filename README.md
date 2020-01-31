@@ -32,7 +32,7 @@ This is my shrine, but I would love it if you used this as a template to make yo
 
 1. create a fork of this project on Github
 2. open the file in your text editor of choice and make updates
-3. if you would like to add images, open up firstsite.psd to use the template in Photoshop. Images are not nessecary though!
+3. if you would like to add images, collect them. They're not necessary though!
 4. have a nice chat and communication with me about those changes
 5. celebrate the contribution!
 
