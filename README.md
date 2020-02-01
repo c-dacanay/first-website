@@ -35,8 +35,7 @@ This is my shrine, but I would love it if you used this as a template to make yo
 3. if you would like to add images, collect them. They're not necessary though!
 4. have a nice chat and communication with me about those changes
 5. celebrate the contribution!
-
-<!-- Notes about the deployment -->
+   <!-- Notes about the deployment -->
 
 ### Deployment
 
