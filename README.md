@@ -6,11 +6,11 @@ my first websites shrine is a tribute to my personal experience of the web betwe
 
 ## About
 
-When I arrived to the internet it felt entirely populated by shrines. That perception was of course colored by the fact that I was an Asian pre-teen anime lover desperate for connection in ways that I could not articulate. Calling them shrines might seem like a misnomer, but they were genuinely places of collection, and appreciation. People gathered to them.
+When I arrived to the internet it felt entirely populated by shrines. That perception was colored by the fact that I was an Asian pre-teen anime lover living in the suburbs, desperate for connection. Calling those early websites "shrines" seems like a misnomer, but they were genuinely places of collection and appreciation. People gathered to them.
 
-In Dynamic Web Development we were asked to title a file "first-website". My first website, if I recall correctly, was a geocities "shrine" to Squirtle. After that I remember making a website devoted to [pygmy falcons](https://en.wikipedia.org/wiki/Pygmy_falcon) in the computer lab at summer camp for some reason. I had other online spaces that were more personal to me than my hometown. The first time I touched code was to change CSS styling on my Livejournal. I set up an FTP client to send drawings to friends. Then I got older, got new friends, moved away, lost touch.
+In Dynamic Web Development we were asked to title a file "first-website". I think my first website was a geocities "shrine" to Squirtle. After that I remember making a website devoted to [pygmy falcons](https://en.wikipedia.org/wiki/Pygmy_falcon) in the computer lab at summer camp for some reason. I had other online spaces that were more personal to me than my hometown. The first time I touched code was to change CSS styling on my Livejournal. I set up an FTP client to send drawings to friends. Then I got older, got new friends, moved away, lost touch.
 
-This exercise was a bit like driving through my childhood neighborhood after 10 years away. Most of my favorite places have been lost or built over. I don't remember many details. It's strange that in the past 5 everyone seems so overly documented yet these AIM chatrooms and forums where I learned to speak as myself are lost to time and the Wayback Machine. (I'm happy for the loss.)
+This exercise was a bit like driving through my childhood neighborhood after 10 years away. Most of my favorite places have been torn down or are unrecognizable. I don't remember many details. It's strange that in the past 5 years everyone seems so overly documented yet these AIM chatrooms and forums where I learned to be a person are lost to time and the Wayback Machine. (I'm happy for the loss.)
 
 <!-- It is essential to describe how to set up your project -->
 
@@ -20,7 +20,7 @@ This exercise was a bit like driving through my childhood neighborhood after 10 
 
 ### Prerequisites
 
-To make a good readme the following prerequisites are necessary:
+To make a first websites shrine you need the following:
 
 1. A text editor
 2. Some favorite places on the internet
@@ -38,9 +38,9 @@ This is my shrine, but I would love it if you used this as a template to make yo
 
 <!-- Notes about the deployment -->
 
-<!-- ### Deployment
+### Deployment
 
-This project is hosted on Glitch. -->
+This project is hosted on Glitch.
 
 ## Built with
 
@@ -49,18 +49,17 @@ This project is hosted on Glitch. -->
 - [The Wayback Machine](https://archive.org/web/)
 - [Github](https://github.com)
 
-## Authors
+## Author
 
 - [Christina Dacanay](http://cdacanay.com/) -- for Dynamic Web Development at [NYU ITP](https://itp.nyu.edu)
 
-## Code of Conduct
+<!-- ## Code of Conduct -->
 
-Please read the [CODE OF CONDUCT](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+<!-- Please read the [CODE OF CONDUCT](https://www.mozilla.org/en-US/about/governance/policies/participation/) -->
 
-## License
+<!-- ## License -->
 
-This is README template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
-
+<!-- This is README template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/) -->
 <!-- thank and reference all the things that made your project happen -->
 
 ## Acknowledgements
