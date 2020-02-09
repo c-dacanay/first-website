@@ -1,20 +1,46 @@
+* {
+  box-sizing: boder-box;
+  /* includes padding and margin into the size of  */
+}
+
 html {
-  width: 100%;
-  height: 100%;
+  font-size: 62.5%;
+  /* 10px - 1rem */
 }
 
 body {
-  /* background: rgb(238, 174, 202); */
+  background: rgb(238, 174, 202);
   color: black;
-  text-align: center;
+  /* text-align: center; */
   margin: 0;
   padding: 0;
   font-family: "Inconsolata", monospace;
-  font-size: 12px;
+  font-size: 2rem;
 }
 
 h1 {
-  font-size: 13pt;
+  font-size: 5rem;
+  padding: 10px;
+  border: 1px dashed black;
   font-weight: bold;
   margin: 0;
+
+  /* inline elements don't take up the full page */
+  /* display: inline-block; won't take up the full width of the page but you can still give a width and height: ; */
+}
+
+p {
+  border: 1px dashed black;
+  font-size: 2rem;
+}
+
+.container {
+  /* position: relative; */
+  display: flex;
+  right: 40px;
+}
+.sigh {
+  color: green;
+  position: relative;
+  left: 40px;
 }
